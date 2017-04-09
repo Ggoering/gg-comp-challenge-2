@@ -13,3 +13,10 @@ The card contents are wrapped in a div with the display: flex property, as well 
 ### Difficulties
  * When using the display: flex property on the containing element of the cards, this containing element could not be easily centered in the page.  Margin: 0 auto had no affect, and as screen width increased the page looked heavily unbalanced just before a new column of cards was displayed.  Furthermore having this element automatically adjust its width as its contents shifted also did not have a straightforward solution.  To solve this issue the flexing element was contained in another element, which at each media query had a max width setting.  This new, larger container could accept the margin: 0 auto; setting, and kept the content centered in the page nicely.  
  * The same trick was used on the secondary header.  It looked better to keep the secondary header text aligned with the left edge of the leftmost card.
+
+
+#### Original Design composition
+[Original Design!](photos-icons/static-com-challenge-2-prototype.jpg)
+
+#### Link to hosted webpage
+https://github.com/Ggoering/gg-comp-challenge-2
