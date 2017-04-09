@@ -16,7 +16,7 @@ The card contents are wrapped in a div with the display: flex property, as well 
 
 
 #### Original Design composition
-[Original Design!](photos-icons/static-com-challenge-2-prototype.jpg)
+![Original Design!](photos-icons/static-com-challenge-2-prototype.jpg)
 
 #### Link to hosted webpage
 https://github.com/Ggoering/gg-comp-challenge-2
