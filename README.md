@@ -19,4 +19,4 @@ The card contents are wrapped in a div with the display: flex property, as well 
 ![Original Design](https://github.com/Ggoering/gg-comp-challenge-2/blob/master/photos-icons/static-comp-challenge-2-prototype.jpg)
 
 #### Link to hosted webpage
-https://github.com/Ggoering/gg-comp-challenge-2
+https://ggoering.github.io/gg-comp-challenge-2/
