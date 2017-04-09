@@ -10,7 +10,7 @@
 
 body {
   height: 3000px;
-  background-image: url("/Users/georgegoering/Documents/Turing Mod 1/static-comp-challenges/challenge2/photos-icons/diamond-plated-metal-wallpaper-bkfv-l.jpg");
+  background-image: url("photos-icons/diamond-plated-metal-wallpaper-bkfv-l.jpg");
   background-position: center;
   background-size: 600px;
 }
@@ -390,7 +390,7 @@ p {
   .main-wrapper {
     max-width: 1090px;
   }
-  
+
   h2 {
    width: 1090px;
   }
